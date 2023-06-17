@@ -13,7 +13,7 @@ Add the following code to your `build.gradle` file:
 ```groovy
 dependencies {
     // Other dependencies
-    files 'lib/yakulib.jar'
+    implementation(files("lib/yakulib.jar"))
 }
 ```
 
