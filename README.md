@@ -1,6 +1,6 @@
 # Yakudatsu
 
-Yakudatsu is a collection of useful Java utilities and libraries.
+Yakudatsu is a collection of useful Java utilities and skidded code hehe.
 
 ## Installation
 
