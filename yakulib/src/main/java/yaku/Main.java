@@ -74,4 +74,6 @@ public class Main {
 
 
     //TODO test physics
+    //TODO test colors
+    //TODO test Pathfinding
 }
