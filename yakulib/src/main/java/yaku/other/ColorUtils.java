@@ -4,7 +4,7 @@ import java.awt.Color;
 
 
 /**
- * @author EBSmash
+ * @author Elijah Bare
  *<p>
  * Utility class for working with colors in Java.
  * Provides methods to modify individual color components (red, green, blue, alpha).
